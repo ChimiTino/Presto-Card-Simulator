@@ -8,6 +8,10 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
+//Name: Tinotenda Chibi
+//Course: OOP 1
+//App Name: Presto Card
+
 /**
  *
  * @author tinot
